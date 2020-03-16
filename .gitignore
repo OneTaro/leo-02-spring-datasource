@@ -1,8 +1,8 @@
 
-!/mvnw.cmd
-!/.mvn/
-!/.idea/
-!/target/
-!/mvnw
-!/HELP.md
-!/leo-02-spring-datasource.iml
+/mvnw.cmd
+/.mvn/
+/.idea/
+/target/
+/mvnw
+/HELP.md
+/leo-02-spring-datasource.iml
